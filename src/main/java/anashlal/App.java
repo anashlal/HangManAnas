@@ -129,7 +129,6 @@ public class App {
 		return isOver;
 
 	}
-
 	private static char[] notSame(char[] a) {
 		HashSet<Integer> keys = new HashSet<Integer>();
 		char[] result = new char[a.length];
